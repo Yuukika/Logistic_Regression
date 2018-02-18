@@ -1,1 +1,1 @@
-# Logistic_Regression
+# 逻辑回归的基本原理和应用
